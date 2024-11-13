@@ -1,0 +1,56 @@
+﻿
+
+Sử dụng GitHub
+
+// Đẩy Project lên Repository
+
+	1. git init 
+
+	2. git add .
+
+	3. git commit -m "First Commit"
+
+	4.git branch -M main
+
+	5.git remote add origin http://github.com/HoangQuocDuy29/reponame.git
+
+	6.git push -u origin main
+
+// Cập nhật những thay đổi của mình lên nhánh cá nhân (version1)
+
+	1. git clone http://github.com/HoangQuocDuy29/reponame.git (clone nhánh main về và tiếp tục sửa đổi những điều cần thiết)
+
+	2. git status (kiểm tra những file vừa thay đổi được git theo dõi hay chưa)
+
+	3. git add . (Theo dõi các file nếu nó chưa được theo dõi)
+
+	4. git commit -m "abc" (Commit các thay đổi)
+
+	5. git push origin version1 (đẩy những gì vừa clone và thay đổi lên nhánh version1 của mình)
+
+// Cập nhật các thay đổi của nhánh khác về nhánh mình
+
+	1. git switch main (chuyển sang nhánh main từ nhánh hiện tại,lưu ý trước khi chuyển sang main cần đảm bảo tất cả thay đổi của nhánh version1 đã được commit và push lên version1)
+
+	2. git pull origin main (Cập nhật nhánh main với các thay đổi từ kho từ xa,kết hợp giữa Fetch"tải về thay đổi từ kho từ xa" và git merge"hợp nhất các thay đổi đó vào nhánh hiện tại")
+
+	3. git switch version1 (Chuyển về nhánh version1)
+
+	4. git merge main (Hợp nhất các thay đổi từ nhánh main vào nhánh version1)
+
+	5. git push origin version1 (Đẩy các thay đổi từ nhánh version1 đã được cập nhật lên kho lưu trữ)
+
+// Pull Request (yêu cầu Leader cập nhật nhánh của mình vào nhánh main)
+
+	1. git clone http://github.com/HoangQuocDuy29/reponame.git
+
+		Khi Clone Prj về ta cần:
+
+	2. git checkout -b update-name (tạo nhánh update-name và chuyển sang nhánh đó)
+
+		Sau khi làm xong phần file của mình cần "git add ."  và "git commit -m "update""
+
+		-"git status" để check xem còn file nào chưa theo dõi không
+
+		-sau đó sẽ đẩy lên nhánh của bạn (update-name) bao gồm cả phần clone và tạo mới "git push origin update-name"
+	3. lên github chọn compare và yêu cầu kéo về nhánh main và chọn PR
