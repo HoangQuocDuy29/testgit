@@ -1,0 +1,10 @@
+E:\Ky_7\Thuc_hanh_lap_trinh_NET\Bai_Tap\HoangQuocDuy\QLKH\QLKH\obj\Debug\QLKH.csproj.AssemblyReference.cache
+E:\Ky_7\Thuc_hanh_lap_trinh_NET\Bai_Tap\HoangQuocDuy\QLKH\QLKH\obj\Debug\QLKH.Form1.resources
+E:\Ky_7\Thuc_hanh_lap_trinh_NET\Bai_Tap\HoangQuocDuy\QLKH\QLKH\obj\Debug\QLKH.Properties.Resources.resources
+E:\Ky_7\Thuc_hanh_lap_trinh_NET\Bai_Tap\HoangQuocDuy\QLKH\QLKH\obj\Debug\QLKH.csproj.GenerateResource.cache
+E:\Ky_7\Thuc_hanh_lap_trinh_NET\Bai_Tap\HoangQuocDuy\QLKH\QLKH\obj\Debug\QLKH.csproj.CoreCompileInputs.cache
+E:\Ky_7\Thuc_hanh_lap_trinh_NET\Bai_Tap\HoangQuocDuy\QLKH\QLKH\bin\Debug\QLKH.exe.config
+E:\Ky_7\Thuc_hanh_lap_trinh_NET\Bai_Tap\HoangQuocDuy\QLKH\QLKH\bin\Debug\QLKH.exe
+E:\Ky_7\Thuc_hanh_lap_trinh_NET\Bai_Tap\HoangQuocDuy\QLKH\QLKH\bin\Debug\QLKH.pdb
+E:\Ky_7\Thuc_hanh_lap_trinh_NET\Bai_Tap\HoangQuocDuy\QLKH\QLKH\obj\Debug\QLKH.exe
+E:\Ky_7\Thuc_hanh_lap_trinh_NET\Bai_Tap\HoangQuocDuy\QLKH\QLKH\obj\Debug\QLKH.pdb
